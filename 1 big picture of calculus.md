@@ -22,6 +22,17 @@
 > 问题2. 已知每个时刻的里程表数值，求某个时刻的车速。 -> **已知距离，求速度** -> **微分 differential calculus** 
 
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_5.jpg" width="50%">
+
+## 名词
+
+抛物线 parabola
+
+比萨斜塔 tower of pisa
+
+加速度 acceleration
+
+三角形面积 area of triangle
+
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_6.jpg" width="50%">
 
 
