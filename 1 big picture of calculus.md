@@ -12,4 +12,8 @@ y = df/dt 中字母 d 是 difference, delta 的缩写。它代表着某个变量
 
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_2.jpg" width="48%">
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_3.jpg" width="48%">
+<img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_4.jpg" width="48%">
+<img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_5.jpg" width="48%">
+<img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_6.jpg" width="48%">
+
 
