@@ -24,6 +24,8 @@
 
     > dy/dx = cos x
 
+---
+
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_7.jpg" width="50%">
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_8.jpg" width="50%">
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_9.jpg" width="50%">
