@@ -8,10 +8,14 @@
 
 Gilbert Strang: [Highlights of Calculus (微积分重点)](https://ocw.mit.edu/courses/res-18-001-calculus-online-textbook-spring-2005/pages/textbook/) MIT 官方教材、视频讲解、学习指南、练习题答案、公式集合
 
-Source 1: [网易公开课](https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TADTFHM) 也是我2018年6月第一次看到这系列视频的平台
+Source 1: [B站](https://www.bilibili.com/video/av3518650/?p=1&vd_source=ccc47c9758517c5b610b2a68904f0e83) 上搬运 Youtube 的课程。最推荐的视频来源，因为视频中加入了中文标注，有利于将中英的概念对应起来。
 
 Source 2: [Youtube](https://www.youtube.com/watch?v=UcWsDwg1XwM&list=PLtj8-EuXMSIiYGtNkLoF-SQuaY_R2f4wz) 上 MIT Opencourseware 频道的官方课程
 
-Source 3: [B站](https://www.bilibili.com/video/av3518650/?p=1&vd_source=ccc47c9758517c5b610b2a68904f0e83) 上搬运 Youtube 的课程
+Source 3: [网易公开课](https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TADTFHM) 也是我2018年6月第一次看到这系列视频的平台
+
+
+
+
 
 
