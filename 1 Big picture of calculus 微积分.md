@@ -1,8 +1,6 @@
 # Prerequisite
 
-<center class="half">
-<img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_1.jpg" width="50%">
-</center>
+<img align = "center" src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_1.jpg" width="50%">
 
 # Basic concepts
 
