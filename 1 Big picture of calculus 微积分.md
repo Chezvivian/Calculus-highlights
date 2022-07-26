@@ -1,6 +1,6 @@
 # Prerequisite
 
-<center class = "half">
+<center class="half">
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_1.jpg" width="50%">
 </center>
 
