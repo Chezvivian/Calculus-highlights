@@ -8,11 +8,11 @@
 
 2. Slope of the great functions of Calculus
 
-    > y = x squared
+    > y = x squared 幂函数
     
-    > y = sin x
+    > y = sin x 三角函数
     
-    > y = e to the x
+    > y = e to the x 指数函数
 
 3. Example 1: what does slope mean?
     
