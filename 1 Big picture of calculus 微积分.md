@@ -10,8 +10,7 @@
 
 
 <img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_2.jpg" width="50%">
-<img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_3.jpg" width="50%">
-<img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_4.jpg" width="50%">
+<img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_3.jpg" width="50%"><img src="https://github.com/Chezvivian/Calculus-highlights/blob/main/Notes/微积分_4.jpg" width="50%">
 
 ## 微分和积分的通俗理解
 
